@@ -6,8 +6,8 @@ export default defineNuxtConfig({
     '@nuxt/ui',
     '@nuxtjs/fontaine',
     '@nuxtjs/google-fonts',
-    '@nuxtjs/image',
-    'nuxt-og-image'
+    'nuxt-og-image',
+    '@nuxt/image',
   ],
   ui: {
     icons: ['heroicons', 'simple-icons']
